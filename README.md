@@ -66,10 +66,13 @@ Replace [IP_INPUT] with the target IP address or range. Additional options can b
 `python3 scan.py 15.197.142.0/24 -p 80 -t 100`
 
 
+
 #. لفحص عدة ip من ملف واحد موجود لديك عبر بروكسي
 
-`python3 ping.py -f cloudflare.txt -p 80 -P 89.221.224.92:80 -t 100`
+`python3 ping.py -f rang_cloudfront_txt -p 80 -P ip:port -t 100`
 
+
+`python3 scan.py -f rang_cloudflaer_txt -p 80 -P ip:port -t 100`
 #. ملاحضه تستطيع الفحص بدون اي أتصالا ب الانترنت
 # Scan front a flaer:
 

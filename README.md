@@ -1,3 +1,10 @@
+# CDN Cloud flaer 
+![Screenshot_20240427-152619_Termux](https://github.com/MrPYTHONI/websocket_cloudflare_cloudfront_Scan/assets/155364237/cc39324b-5bf1-4a66-b441-ac723d1924e3)
+
+ # CDN Cloud front
+ ![Screenshot_20240427-152508_Termux](https://github.com/MrPYTHONI/websocket_cloudflare_cloudfront_Scan/assets/155364237/c5fdc5c1-203f-415e-8ce1-125631d98ad9)
+
+
 # Features
 . Single IP and IP range scanning
 
@@ -20,16 +27,19 @@
 
 2. Install the required dependencies:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 
 3. Install the required dependencies:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 4. Run the tool:
+
+5. ![Screenshot_20240427-135123_Termux](https://github.com/MrPYTHONI/websocket_cloudflare_cloudfront_Scan/assets/155364237/95b4ae81-a921-4313-9186-756e8cba1a5b)
+
 
 python scan.py [IP_INPUT] [OPTIONS]
 
@@ -50,15 +60,15 @@ Replace [IP_INPUT] with the target IP address or range. Additional options can b
 
 #. Scan a single IP:
 
-`python cdnscanner.py 192.168.1.1`
+`python scan.py 192.168.1.1`
 
 #. Scan an IP range:
 
-`python cdnscanner.py 192.168.1.0/24`
+`python scan.py 192.168.1.0/24`
 
 #. Scan using a proxy:
 
-`python cdnscanner.py 192.168.1.1 -P 12.34.56.6:80`
+`python scan.py 192.168.1.1 -P 12.34.56.6:80`
 
 
 #. لفحص ip range ورأيت فرعيات عنوان ال ip
@@ -83,10 +93,11 @@ Replace [IP_INPUT] with the target IP address or range. Additional options can b
 
 . scan cloudflaer🌚👇
 
-`python scan.py -f rang_cloudflaer.txt`
+`python3 scan.py -f rang_cloudflaer_txt`
 
 scan cloudfront🌚👇
-`python scan.py -f rang_cloudfront_txt`
+
+`python3 scan.py -f rang_cloudfront_txt`
 
 
 # Output
@@ -96,3 +107,14 @@ scan cloudfront🌚👇
 `cloudflare_cloudfront_results.txt`: Contains results for Cloudflare and Cloudfront.successful_results.txt: Contains successful scan results
 
 `successful_results.txt`: Contains successful scan results
+
+
+# 📱 حـسـاباتـنا الرسـمـية
+. ♟Telegram♟ 
+https://t.me/PYT_HON3
+➖➖➖➖➖➖➖➖➖➖
+♟You Tube♟
+https://www.youtube.com/@Mr_PYTHON3
+➖➖➖➖➖➖➖➖➖➖
+مبرمج خبيث 💀
+@Mr_PYT_HON

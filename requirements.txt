@@ -1,0 +1,2 @@
+requests==2.26.0
+ipcalc==1.99.0

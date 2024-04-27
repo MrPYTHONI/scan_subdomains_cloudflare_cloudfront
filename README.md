@@ -9,6 +9,11 @@
 
 # Usage
 
+ $ `git clone https://github.com/MrPYTHONI/websocket_cloudflare_cloudfront_Scan.git`
+
+
+ $ `cd websocket_cloudflare_cloudfront_Scan`
+
 1. Clone the repository:
 
 

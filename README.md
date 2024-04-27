@@ -84,7 +84,7 @@ Replace [IP_INPUT] with the target IP address or range. Additional options can b
 
 #. لفحص عدة ip من ملف واحد موجود لديك عبر بروكسي
 
-`python3 ping.py -f rang_cloudfront_txt -p 80 -P ip:port -t 100`
+`python3 scan.py -f rang_cloudfront_txt -p 80 -P ip:port -t 100`
 
 
 `python3 scan.py -f rang_cloudflaer_txt -p 80 -P ip:port -t 100`
@@ -108,6 +108,8 @@ scan cloudfront🌚👇
 
 `successful_results.txt`: Contains successful scan results
 
+# 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩
+![Screenshot_20231105-191851_Video Player](https://github.com/MrPYTHONI/websocket_cloudflare_cloudfront_Scan/assets/155364237/84c0bab7-1ee4-4f35-a48a-846d77a5d57d)
 
 # 📱 حـسـاباتـنا الرسـمـية
 . ♟Telegram♟ 
